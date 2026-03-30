@@ -1,1 +1,0 @@
-import{n as e}from"./chunk-BneVvdWh.js";import{S as t,i as n,n as r,r as i,t as a,x as o}from"./iframe-Dryfqgy9.js";var s;e((()=>{i(),r(),t(),s=(0,o(n(),1).default)(2)(async(e,t)=>e===!1?t:a(t))}))();export{s as formatter};
